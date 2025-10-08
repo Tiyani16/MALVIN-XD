@@ -1,5 +1,4 @@
 
-{
 "bot-name": "MALVIN-XD",
   "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ",
   "logo": "https://files.catbox.moe/juxfce.jpg",
@@ -8,9 +7,9 @@
     "owner-verification":"malvink003@gmail.com",
   
     "env": {
-      "SESSION_ID": {
+      "SESSION_ID": {malvin~utokHQTY#CXG5RO0LJU2iTi4tVqWi2hgfE6COkTyYh51B0QxtdTg1fa2bfa34fbbea89
         "description": "Put your SESSION_ID here. It starts with malvin~",
-        "value":"",
+        "value":"priavte",
         "required": true
         
       },
