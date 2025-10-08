@@ -3,7 +3,7 @@
   "version": "2.0.0",
   "description": "The Best WhatsApp Bot Created By Malvin King",
   "main": "index.js",
-    "type": "module",
+    "type": "module ",
   "engines": {
     "node": ">=20.x",
     "npm": ">=10.x"
